@@ -1,9 +1,0 @@
-somtoval.pythonanywhere.com/api/question/<id>/ - to return a specific question
-
-somtoval.pythonanywhere.com/api/questions/<exam_id>/ - to return all question from a specific exam and also create a question
-
-somtoval.pythonanywhere.com/api/options/<question_id>/ - to return all options of a specific question or create a new option for a specific question
-
-somtoval.pythonanywhere.com/api/candidates/<exam_id>/ - to return all candidates of a specific exam
-
-somtoval.pythonanywhere.com/api/create-candidate/ - to create a candidate for exams or list all candidates in database
